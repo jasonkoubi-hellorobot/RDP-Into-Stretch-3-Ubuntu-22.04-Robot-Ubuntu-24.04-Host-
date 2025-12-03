@@ -3,6 +3,7 @@
 
 This guide shows how to enable and use **RDP** to access the Stretch 3 robot’s onboard computer from your own machine running Ubuntu 24.04.
 
+**Note: On Ubuntu 22.04, the robot must already be logged into its desktop session locally before you can connect via RDP.**
 
 ## On the Stretch 3 Robot (Ubuntu 22.04)
 
